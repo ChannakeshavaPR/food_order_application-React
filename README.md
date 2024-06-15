@@ -19,7 +19,7 @@ Node.js (includes npm)
 Steps
 Clone the repository
 
-1. Open your terminal and clone the repository using git clone
+1. Open your terminal and clone the repository using >>>>>>>>>>git clone https://github.com/ChannakeshavaPR/food_order_application-React.git
    
 2.Navigate to the project directory
 
