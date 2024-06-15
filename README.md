@@ -1,9 +1,10 @@
 Food Order React Application
 
-Description
+Description:
 This is a Food Order React Application that allows users to browse through a menu, add items to their cart, and place an order. The application is built using React and provides a user-friendly interface for a seamless food ordering experience.
 
-Features
+Features:
+
 Browse through a list of food items
 Add items to the cart
 View cart and adjust quantities
@@ -18,8 +19,7 @@ Node.js (includes npm)
 Steps
 Clone the repository
 
-1. Open your terminal and clone the repository using the following command:
-    git clone https://github.com/your-username/food-order-react-app.git
+1. Open your terminal and clone the repository using git clone
    
 2.Navigate to the project directory
 
@@ -28,12 +28,12 @@ Clone the repository
 3.Install dependencies
 
   Install the required dependencies using npm:
-  npm install
+  >>>>>npm install<<<<<
     
 4.Run the application
 
   Start the application on your local server:
-  npm start
+  >>>>>npm start<<<<<
   
 5.Open the application in your browser
 
