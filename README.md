@@ -1,4 +1,5 @@
 Food Order React Application
+
 Description
 This is a Food Order React Application that allows users to browse through a menu, add items to their cart, and place an order. The application is built using React and provides a user-friendly interface for a seamless food ordering experience.
 
