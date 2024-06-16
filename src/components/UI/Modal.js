@@ -1,7 +1,6 @@
 import React, { Fragment } from "react";
 import ReactDOM from "react-dom";
 import classes from "./Modal.module.css";
-import { createPortal } from "react-dom";
 
 const Backdrop = (props) => {
   return <div className={classes.backdrop} onClick={props.onClose} />;
